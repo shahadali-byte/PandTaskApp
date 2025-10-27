@@ -1,0 +1,4 @@
+id,username,email,password,tasks
+1001,barbara,barbara@email.com,hashed_password123,2001;2002
+1002,alex,alex@email.com,hashed_password456,2003
+1003,maria,maria@email.com,hashed_password789,

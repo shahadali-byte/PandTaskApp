@@ -1,0 +1,4 @@
+id,user_id,title,description,dueDate,priority,labels
+2001,1001,Finish project,Complete UI and database connection,2025-10-25,High,Work;School
+2002,1001,Buy groceries,Get milk and eggs,2025-10-19,Medium,Personal
+2003,1002,Submit homework,Upload to portal before midnight,2025-10-21,High,School
